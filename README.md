@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Module Challenges 1 - WEB Programming Introduce
+  Module Challenges 2 - Starting Front end
 </h3>
 
-<blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>
+<blockquote align="center">“Challenges of Bootcamp LaunchBase 02”</blockquote>
 
 <p align="center">
 
@@ -27,16 +27,20 @@
 
 ## :rocket: Challenges
 
-- [First steps with Javascript](challenges/01-1-first-steps-js.md)
+- First HTML
   
+<p>
+  <img alt="first-html" src="./assets/challenge1-1-imc.png"></img>
+</p>
 
-- [Dealing with objects and vectors](challenges/01-2-dealing-objetcs-vectors.md)
+- Description page
 
 
-- [Functions and Repetition Structures](challenges/01-3-functions-and-repetition-structures.md)
+- Courses page and iframe
 
 
-- [Application: Banking Operations](challenges/01-4-banking-operations.md)
+- Bulding Foodfy
+
 
 ## :memo: License
 

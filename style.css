@@ -28,6 +28,64 @@ header div a {
 }
 
 header div a:hover {
-    color: #F8952D;
+    color:#F8952D;
     transition: color 500ms;
+}
+
+main {
+    height: 90vh;
+    background: url('/assets/counting_stars.svg') no-repeat;
+    background-position: 30vw bottom;
+    background-size: 610px;
+    width: 100%;
+    max-width: 1100px;
+    height: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+    
+#index {
+    max-width: 560px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#index h1 {
+    font-size: 54px;
+    color: white
+}
+
+#index p {
+    font-size: 24px;
+    line-height: 38px;
+    margin-top: 24px;
+    color: white
+}
+
+#index a {
+    width: 100%;
+    max-width: 360px;
+    height: 72px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    background-color: #F8952D;
+    transition: 400ms;
+    text-decoration: none;
+}
+
+#index a:hover {
+    background-color: #2fb86e; 
+}
+
+#index a strong {
+    flex: 1;
+    color: #333;
+    text-align: center;
 }
