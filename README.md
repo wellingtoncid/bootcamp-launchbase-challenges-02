@@ -30,7 +30,7 @@
 - First HTML
   
 <p>
-  <img alt="first-html" src="./assets/challenge1-1-imc.png"></img>
+  <img alt="first-html" src="./assets/first-html.png"></img>
 </p>
 
 - Description page
