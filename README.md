@@ -35,9 +35,15 @@
 
 - Description page
 
+<p>
+  <img alt="second-html" src="./assets/second-html.png"></img>
+</p>
 
-- Courses page and iframe
+- Courses page and iframe (todo: iframe)
 
+<p>
+  <img alt="third-html" src="./assets/third-html.png"></img>
+</p>
 
 - Bulding Foodfy
 
