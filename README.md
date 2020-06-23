@@ -41,14 +41,11 @@
 
 - Courses page and iframe - Challenge 02:3 
 
-https://challenge2-3.netlify.app/
+Veja funcionando ao vivo: https://challenge2-3.netlify.app/
 
 <p>
   <img alt="third-html" src="./assets/third-html.png"></img>
 </p>
-
-- Bulding Foodfy
-
 
 ## :memo: License
 

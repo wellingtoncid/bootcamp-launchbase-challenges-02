@@ -51,14 +51,16 @@ main {
 }
 
 #index {
-    max-width: 600px;
+    max-width: 1000px;
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    position: relative;
 }
 
 #index h1 {
+    max-width: 600px;
     font-size: 54px;
     color: var(--color-rocket)
 }
@@ -67,7 +69,7 @@ main {
     font-size: 24px;
     line-height: 38px;
     margin-top: 24px;
-    color: var(--color-rocket)
+    color: white
 }
 
 #index a {
@@ -78,19 +80,25 @@ main {
     display: flex;
     align-items: center;
     margin-top: 40px;
-    background-color: var(--color-launch);
+    background-color: var(--color-rocket);
     transition: 400ms;
     text-decoration: none;
 }
 
 #index a:hover {
-    background-color: var(--color-rocket); 
+    background-color: var(--color-launch); 
 }
 
 #index a strong {
     flex: 1;
-    color: #333;
+    color: white;
     text-align: center;
+}
+
+#index img {
+    position: absolute;
+    right: 5px;
+    height: 400px;
 }
 
 .about {
@@ -109,7 +117,8 @@ main {
     font-size: 48px;
     line-height: 58px;
     font-weight: bold;
-    color: var(--color-rocket)
+    color: var(--color-rocket);
+    text-shadow: 1px 1px #575555;
 }
 
 .about h2 {
