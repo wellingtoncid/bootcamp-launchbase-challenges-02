@@ -27,19 +27,21 @@
 
 ## :rocket: Challenges
 
-- First HTML
+- First HTML - Challenge 02:1
   
 <p>
   <img alt="first-html" src="./assets/first-html.png"></img>
 </p>
 
-- Description page
+- Description page - Challenge 02:2
 
 <p>
   <img alt="second-html" src="./assets/second-html.png"></img>
 </p>
 
-- Courses page and iframe (todo: iframe)
+- Courses page and iframe - Challenge 02:3 
+
+https://challenge2-3.netlify.app/
 
 <p>
   <img alt="third-html" src="./assets/third-html.png"></img>
